@@ -1,11 +1,9 @@
 import React from "react";
-import Projects from "./projects";
-
 
 function App() {
   return (
-    <div className='container'>
-      <Projects />
+    <div className="container">
+      <h1>projects</h1>
     </div>
   );
 }
